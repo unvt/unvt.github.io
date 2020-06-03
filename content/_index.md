@@ -1,5 +1,6 @@
 ---
 title: "UNVT Dashboard"
+draft: false
 ---
 
 # :flag-un: UNVT Dashboard :world_map:
@@ -90,3 +91,4 @@ Misora is UNVT Raspberry Pi implementation.
 # :information_source: See also
 
 UNVT is under the [United Nations Open GIS Initiative](http://unopengis.org/). 
+
