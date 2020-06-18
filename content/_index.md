@@ -86,6 +86,9 @@ Misora is UNVT Raspberry Pi implementation.
 ## [A Mapbox blog entry by Allan Walker](https://blog.mapbox.com/collaborating-with-the-geospatial-information-authority-of-japan-8590aa3f3df6)
 [![](https://i.imgur.com/52usx01.png)](https://blog.mapbox.com/collaborating-with-the-geospatial-information-authority-of-japan-8590aa3f3df6)
 
+## [A Geolonia blog entry by miya](https://blog.geolonia.com/2020/06/18/unvt.html)
+[![](https://unvt.github.io/img/geolonia20200618.jpg)](https://blog.geolonia.com/2020/06/18/unvt.html)
+
 ## [#unvt tagged entries in dev.to](https://dev.to/search?q=unvt)
 
 # :information_source: See also
