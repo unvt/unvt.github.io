@@ -19,4 +19,4 @@ Run the build command which outputs to the `dist/` directory. A `.nojekyll` file
 npm run build
 ```
 
-The contents of `dist/` are committed to the repository and served from GitHub Pages. Whenever changes are merged into `main`, a GitHub Actions workflow automatically runs this build and pushes the updated site to the `gh-pages` branch.
+The contents of `dist/` are committed to the repository and served from GitHub Pages. Whenever changes are merged into `master`, a GitHub Actions workflow automatically runs this build and pushes the updated site to the `gh-pages` branch.
