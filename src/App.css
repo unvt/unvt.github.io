@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0 1rem;
+}
+header, footer {
+  text-align: center;
+  padding: 1rem 0;
+}
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+section {
+  margin-bottom: 2rem;
+}
